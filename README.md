@@ -1,12 +1,6 @@
 # Aprendizaje_Maquina_Checkpoint8_Luis
 Laboratorio de modelo de entrenamiento
 
-# Laboratorio 4: Detección de Fraude con Regresión Logística
-
-Este repositorio contiene un notebook que implementa un modelo de regresión logística para detectar transacciones fraudulentas, utilizando el conjunto de datos Fraudulent Transactions Data disponible en Kaggle, sin embargo, el notebook incluye ya la descarga de los datos desde un bucket público de AWS. 
-
-Deberás mostrar exploración, preprocesamiento, entrenamiento del modelo y evaluación del desempeño.
-
 ---
 
 ## **Contenido del Repositorio**
