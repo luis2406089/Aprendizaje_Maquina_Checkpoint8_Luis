@@ -197,7 +197,3 @@ Luis - [GitHub](https://github.com/tu-usuario)
 
 - Dataset: [Alberto Barradas - Kaggle](https://www.kaggle.com/datasets/abcsds/pokemon)
 - Pokémon © Nintendo/Game Freak
-
----
-
-⭐ Si te gustó este proyecto, dale una estrella!
